@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Mullins182
 - 👀 I’m interested in Programming with C++, C#, Java in Visual Studio.
 - 🌱 I’m currently learning to program at Computer Schule Stockelsdorf
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...    
-- 😄 Pronouns: ...
 - ⚡ Fun fact: GitHub is cool ^^
 
 <!---
