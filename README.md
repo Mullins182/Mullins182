@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mullins182
 - 👀 I’m interested in Programming with C++, C#, HTML, CSS & JavaScript in Visual Studio and Visual Studio Code.
-- 🌱 I’m currently learning to program at Computer Schule Stockelsdorf
+- 🌱 I just finished my retraining as IT Specialist for Software Development at Computer Schule Lübeck
 - ⚡ Fun facts:
 - Why do Java programmers wear glasses? Because they don't C# ^^
 - ||
